@@ -1,0 +1,26 @@
+h1{
+    color:teal;/*external*/
+    text-align: center;
+    font-family: Montserrat;
+    background-color: black;
+    padding: 50px;
+}
+hr{
+    border: 2px solid teal;
+    width: 50%;
+}
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+}
+a{
+    margin-left: 100px;
+    font-family: Montserrat;
+    font-style: italic;
+}
+img{
+    margin-top: 50px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
